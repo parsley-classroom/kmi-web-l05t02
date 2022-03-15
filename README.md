@@ -1,4 +1,4 @@
-# kmi-web-l04t03
+# kmi-web-l05t02
 
-Termín odevzdání: 29. 3. 2022 - 23:00 <br>
-[Zadání úkolu](https://www.thomasparsley.cz/vyuka/2021-2022/kmi/tvorba-webovych-stranek/cviceni/jak-psat-css#task-3)
+Termín odevzdání: 5. 4. 2022 - 23:00 <br>
+[Zadání úkolu](https://www.thomasparsley.cz/vyuka/2021-2022/kmi/tvorba-webovych-stranek/cviceni/css-grid#task-2)
